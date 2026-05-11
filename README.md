@@ -1,4 +1,4 @@
-# Project-of-Robotic-Perception-and-Intelligence-Laboratory
+# Autonomous Navigation and Grasping System for Unmanned Robots
 ## Description
 This is used for the final project of Robotic Perception and Intelligence. The software system is based on the Linux/Ubuntu system and the ROS2 communication framework.
 
