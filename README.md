@@ -1,4 +1,4 @@
-# Xiong-Minjun
+# Project-of-Robotic-Perception-and-Intelligence-Laboratory
 ## Description
 This is used for the final project of Robotic Perception and Intelligence.
 These codes are about the part that I am responsible for, which are all about robot arm control.
